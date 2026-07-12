@@ -28,6 +28,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Search Skills](./Search-Skills.md) – Investigating indicators of compromise (IoCs) using Shodan, VirusTotal, and cross-referencing CVE/NVD databases for patch management.
 ### 🐧 Linux System Administration & Defense
 * [Linux Fundamentals](./Linux-Fundamentals.md) – A defensive cheat sheet covering directory navigation, log filtering with grep, and file permission structures.
+### 🪟 Windows System Administration & Defense
+* [Windows Fundamentals](./Windows-Fundamentals.md) – An endpoint security reference sheet covering core administrative utilities, Registry persistence, and critical Event Viewer IDs for incident triage.
 
 ---
 
