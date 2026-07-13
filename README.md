@@ -31,7 +31,7 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 ### 🪟 Windows System Administration & Defense
 * [Windows Fundamentals](./Windows-Fundamentals.md) – An endpoint security reference sheet covering core administrative utilities, Registry persistence, and critical Event Viewer IDs for incident triage.
 ### 🔍 Core Operating System Environments
-* [Module 04: Shells & Command Line](.CommandLines.md) – A consolidated reference guide for Windows CMD, Linux shell redirection, and advanced PowerShell object filtering (`Get-Service`) used during live incident triage.
+* [Module 04: Shells & Command Line](./CommandLines.md) – A consolidated reference guide for Windows CMD, Linux shell redirection, and advanced PowerShell object filtering (`Get-Service`) used during live incident triage.
 
 ---
 
