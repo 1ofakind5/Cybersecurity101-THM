@@ -32,6 +32,9 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Windows Fundamentals](./Windows-Fundamentals.md) – An endpoint security reference sheet covering core administrative utilities, Registry persistence, and critical Event Viewer IDs for incident triage.
 ### 🔍 Core Operating System Environments
 * [Module 04: Shells & Command Line](./CommandLines.md) – A consolidated reference guide for Windows CMD, Linux shell redirection, and advanced PowerShell object filtering (`Get-Service`) used during live incident triage.
+### 🖥️ Windows Security & Enterprise Incident Response (THM Skill Boost)
+* [Active Directory Basics](./Active-Directory-Basics.md) – A technical reference guide covering AD architecture, domain controllers, Kerberos authentication principles, and defensive enumeration.
+* [Investigating Windows (Forensics Case Study)](./Investigating-Windows.md) – A deep-dive Incident Response write-up tracking a live enterprise server compromise. Documents practical tracking of registry persistence, malicious scheduled tasks (`nc.ps1`), credential dumping artifacts (Mimikatz), and firewall audit logging.
 
 ---
 
