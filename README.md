@@ -37,7 +37,7 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Investigating Windows (Forensics Case Study)](./Investigating-Windows.md) – A deep-dive Incident Response write-up tracking a live enterprise server compromise. Documents practical tracking of registry persistence, malicious scheduled tasks (`nc.ps1`), credential dumping artifacts (Mimikatz), and firewall audit logging.
 ### 🖥️ Windows Security & Enterprise Incident Response (THM Skill Boost)
 
-* [Hacking with PowerShell (Execution Analysis)](./Hacking-with-PowerShell.md) – An auditing reference guide analyzing file transfer cmdlets (`Invoke-WebRequest`), in-memory execution via `Invoke-Expression` (IEX), and the high-priority Event IDs (4104/4103) required to hunt for malicious PowerShell scripts.
+* [Hacking with PowerShell (Execution Analysis)](./Hacking-with-Powershell.md) – An auditing reference guide analyzing file transfer cmdlets (`Invoke-WebRequest`), in-memory execution via `Invoke-Expression` (IEX), and the high-priority Event IDs (4104/4103) required to hunt for malicious PowerShell scripts.
 
 ---
 
