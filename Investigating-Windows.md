@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Module 06: Investigating Windows & Digital Forensics
+# 🕵️‍♂️ Investigating Windows & Digital Forensics
 
 A hands-on Incident Response (IR) case study detailing the forensic analysis of a compromised Windows Server 2016 machine. This guide outlines the timeline, tools, and defensive methodologies used to uncover an attacker's footprints, tools, and persistence mechanisms.
 
