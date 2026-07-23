@@ -41,6 +41,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Networking & Traffic Analysis](./Networking.md) – A technical guide covering TCP/IP vs OSI layers, secure protocol transitions (HTTP/HTTPS, Telnet/SSH), traffic analysis with Wireshark and Tcpdump, and network discovery using Nmap.
 ### 🔐 Cryptosystem
 * [RSA Sequential Prime Generation Flaw (`q = primo(p)`)](./Cryptosystem.md) – Technical analysis of an RSA key generation flaw where prime factors are chosen sequentially, enabling instant key factorization via Fermat's algorithm.
+## 📂 Security Modules
+* [Cryptography](./Cryptography.md) – Overview of public-key infrastructure, hash functions, and password auditing methodology with John the Ripper.
 
 ---
 
