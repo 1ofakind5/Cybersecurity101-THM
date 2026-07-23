@@ -39,6 +39,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Hacking with PowerShell (Execution Analysis)](./Hacking-with-Powershell.md) – An auditing reference guide analyzing file transfer cmdlets (`Invoke-WebRequest`), in-memory execution via `Invoke-Expression` (IEX), and the high-priority Event IDs (4104/4103) required to hunt for malicious PowerShell scripts.
 ### 🌐 Network Fundamentals & Packet Analysis
 * [Networking & Traffic Analysis](./Networking.md) – A technical guide covering TCP/IP vs OSI layers, secure protocol transitions (HTTP/HTTPS, Telnet/SSH), traffic analysis with Wireshark and Tcpdump, and network discovery using Nmap.
+### 🔐 Cryptography
+* [RSA Sequential Prime Generation Flaw (`q = primo(p)`)](./Cryptography.md) – Technical analysis of an RSA key generation flaw where prime factors are chosen sequentially, enabling instant key factorization via Fermat's algorithm.
 
 ---
 
