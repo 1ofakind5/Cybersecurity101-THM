@@ -43,6 +43,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [RSA Sequential Prime Generation Flaw (`q = primo(p)`)](./Cryptosystem.md) – Technical analysis of an RSA key generation flaw where prime factors are chosen sequentially, enabling instant key factorization via Fermat's algorithm.
 ## 📂 Security Modules
 * [Cryptography](./Cryptography.md) – Overview of public-key infrastructure, hash functions, and password auditing methodology with John the Ripper.
+### 🎯 Exploitation Basics
+* [Exploitation Basics](./Exploitation-Basics.md) – Technical reference documenting framework architecture (Metasploit/Meterpreter), client-side hyperlink flaws (CVE-2024-21413), and forensic detection standards for SMBv1 buffer overflows (MS17-010).
 
 ---
 
