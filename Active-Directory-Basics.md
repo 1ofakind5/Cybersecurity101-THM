@@ -1,6 +1,7 @@
 # 🏢 Active Directory Basics: Enterprise Architecture & Defense
 
 A fundamental reference guide detailing the architecture of Windows Active Directory (AD), core enterprise authentication mechanisms, and defensive enumeration strategies used to map domain environments.
+Set-ADAccountPassword jsmith -Reset -NewPassword (Read-Host -AsSecureString -Prompt 'New Password')
 
 ---
 
