@@ -45,6 +45,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Cryptography](./Cryptography.md) – Overview of public-key infrastructure, hash functions, and password auditing methodology with John the Ripper.
 ### 🎯 Exploitation Basics
 * [Exploitation Basics](./Exploitation-Basics.md) – Technical reference documenting framework architecture (Metasploit/Meterpreter), client-side hyperlink flaws (CVE-2024-21413), and forensic detection standards for SMBv1 buffer overflows (MS17-010).
+### 🌐 Web Hacking & Application Security
+* [Web Hacking & Application Security](./Web-Hacking.md) – Technical reference covering HTTP protocol architecture, client-side JavaScript execution context, SQL injection mechanics, and proxy-based vulnerability analysis with Burp Suite.
 
 ---
 
