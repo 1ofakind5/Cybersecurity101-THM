@@ -47,7 +47,7 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Exploitation Basics](./Exploitation-Basics.md) – Technical reference documenting framework architecture (Metasploit/Meterpreter), client-side hyperlink flaws (CVE-2024-21413), and forensic detection standards for SMBv1 buffer overflows (MS17-010).
 ### 🌐 Web Hacking & Application Security
 * [Web Hacking & Application Security](./Web-Hacking.md) – Technical reference covering HTTP protocol architecture, client-side JavaScript execution context, SQL injection mechanics, and proxy-based vulnerability analysis with Burp Suite.
-### 🛠️ Offensive Security Tooling (THM Skill Boost)
+### 🛠️ Offensive Security Tooling
 * [Offensive Security Tooling](./Offensive-Security-Tooling.md) – Technical reference covering execution mechanics, SIEM log telemetry (Event ID 4625, HTTP 404/403 spikes), and defensive mitigations for brute-forcing (Hydra), web enumeration (Gobuster), SQL injection (SQLMap), and shell process lineage detection.
 
 ---
