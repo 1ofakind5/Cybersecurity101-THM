@@ -49,6 +49,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Web Hacking & Application Security](./Web-Hacking.md) – Technical reference covering HTTP protocol architecture, client-side JavaScript execution context, SQL injection mechanics, and proxy-based vulnerability analysis with Burp Suite.
 ### 🛠️ Offensive Security Tooling
 * [Offensive Security Tooling](./Offensive-Security-Tooling.md) – Technical reference covering execution mechanics, SIEM log telemetry (Event ID 4625, HTTP 404/403 spikes), and defensive mitigations for brute-forcing (Hydra), web enumeration (Gobuster), SQL injection (SQLMap), and shell process lineage detection.
+### 🛡️ Defensive Security
+* [Defensive Security](./Defensive-Security.md) – Technical reference covering SOC tiering and alert triage, digital forensics evidence handling (chain of custody, volatile data acquisition), NIST/SANS incident response lifecycle, and log source correlation across system, application, and security logs.
 
 ---
 
