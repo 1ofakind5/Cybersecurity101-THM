@@ -51,6 +51,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Offensive Security Tooling](./Offensive-Security-Tooling.md) – Technical reference covering execution mechanics, SIEM log telemetry (Event ID 4625, HTTP 404/403 spikes), and defensive mitigations for brute-forcing (Hydra), web enumeration (Gobuster), SQL injection (SQLMap), and shell process lineage detection.
 ### 🛡️ Defensive Security
 * [Defensive Security](./Defensive-Security.md) – Technical reference covering SOC tiering and alert triage, digital forensics evidence handling (chain of custody, volatile data acquisition), NIST/SANS incident response lifecycle, and log source correlation across system, application, and security logs.
+### 🛡️ Security Solutions & Threat Detection
+* [Security Solutions](./Security-Solutions.md) – A layered defense reference covering perimeter filtering (firewalls), centralized log correlation (SIEM), signature/anomaly-based intrusion detection (IDS), proactive weakness identification (vulnerability scanning), and hands-on Snort rule writing.
 
 ---
 
