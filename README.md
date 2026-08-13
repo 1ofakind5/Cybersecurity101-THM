@@ -53,6 +53,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Defensive Security](./Defensive-Security.md) – Technical reference covering SOC tiering and alert triage, digital forensics evidence handling (chain of custody, volatile data acquisition), NIST/SANS incident response lifecycle, and log source correlation across system, application, and security logs.
 ### 🛡️ Security Solutions & Threat Detection
 * [Security Solutions](./Security-Solutions.md) – A layered defense reference covering perimeter filtering (firewalls), centralized log correlation (SIEM), signature/anomaly-based intrusion detection (IDS), proactive weakness identification (vulnerability scanning), and hands-on Snort rule writing.
+### 🛡️ Defensive Security Tooling
+* [Defensive Security Tooling](./Defensive-Security-Tooling.md) – A malware analysis and triage reference covering static capability detection (CAPA), data decoding and deobfuscation (CyberChef), and dedicated reverse-engineering environments for Linux and Windows (REMnux, FlareVM).
 
 ---
 
