@@ -55,6 +55,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Security Solutions](./Security-Solutions.md) – A layered defense reference covering perimeter filtering (firewalls), centralized log correlation (SIEM), signature/anomaly-based intrusion detection (IDS), proactive weakness identification (vulnerability scanning), and hands-on Snort rule writing.
 ### 🛡️ Defensive Security Tooling
 * [Defensive Security Tooling](./Defensive-Security-Tooling.md) – A malware analysis and triage reference covering static capability detection (CAPA), data decoding and deobfuscation (CyberChef), and dedicated reverse-engineering environments for Linux and Windows (REMnux, FlareVM).
+### 🕸️ OWASP Top 10 (2025)
+* [OWASP Top 10 (2025)](./OWASP.md) – An application security reference covering broken authentication and access control (IAAA Failures), insecure architecture and business logic (Application Design Flaws), and weak protection of sensitive data (Insecure Data Handling).
 
 ---
 
