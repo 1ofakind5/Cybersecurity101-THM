@@ -57,6 +57,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Defensive Security Tooling](./Defensive-Security-Tooling.md) – A malware analysis and triage reference covering static capability detection (CAPA), data decoding and deobfuscation (CyberChef), and dedicated reverse-engineering environments for Linux and Windows (REMnux, FlareVM).
 ### 🕸️ OWASP Top 10 (2025)
 * [OWASP Top 10 (2025)](./OWASP.md) – An application security reference covering broken authentication and access control (IAAA Failures), insecure architecture and business logic (Application Design Flaws), and weak protection of sensitive data (Insecure Data Handling).
+### 🎣 Phishing Simulation
+* [Phishing Simulation](./Phishing-Simulation.md) – Covers phishing detection, suspicious email analysis, true-positive classification, incident response, alert resolution, and defensive security controls.
 
 ---
 
