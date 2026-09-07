@@ -61,6 +61,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Phishing Simulation](./Phishing-Simulation.md) – Covers phishing detection, suspicious email analysis, true-positive classification, incident response, alert resolution, and defensive security controls.
 ### 🛡️ Core SOC Solutions
 * [Core SOC Solutions](./Core-SOC-Solutions.md) – A technical learning reference covering EDR, SIEM, Splunk, Elastic Stack, and SOAR, including endpoint telemetry, centralized log monitoring, security investigations, detection workflows, and automated incident response.
+### 🛡️ Cyber Defence Frameworks
+* [Cyber Defence Frameworks](./Cyber-Defence-Frameworks.md) – A technical learning reference covering the Pyramid of Pain, Cyber Kill Chain, Unified Kill Chain, and MITRE ATT&CK, including indicator ranking, intrusion phase mapping, technique correlation, and hands-on SOC challenges.
 
 ---
 
