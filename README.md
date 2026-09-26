@@ -65,6 +65,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Cyber Defence Frameworks](./Cyber-Defence-Frameworks.md) – A technical learning reference covering the Pyramid of Pain, Cyber Kill Chain, Unified Kill Chain, and MITRE ATT&CK, including indicator ranking, intrusion phase mapping, technique correlation, and hands-on SOC challenges.
 ### 🪝Phishing Analysis
 * [Phishing Analysis](./Phishing-Analysis.md) – A technical learning reference covering email structure, phishing indicators, investigation tooling, and email authentication, including header forensics, attachment analysis, campaign reconstruction, and live SOC incident triage.
+### 🛜 Network Traffic Analysis
+* [Network Traffic Analysis](./Network-Traffic-Analysis.md) – A technical learning reference covering traffic collection and observability, Wireshark packet and display-filter operations, anomaly detection, and network forensics with NetworkMiner, including scan fingerprinting, tunnelling detection, and artefact extraction.
 
 ---
 
