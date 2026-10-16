@@ -67,6 +67,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Phishing Analysis](./Phishing-Analysis.md) – A technical learning reference covering email structure, phishing indicators, investigation tooling, and email authentication, including header forensics, attachment analysis, campaign reconstruction, and live SOC incident triage.
 ### 🛜 Network Traffic Analysis
 * [Network Traffic Analysis](./Network-Traffic-Analysis.md) – A technical learning reference covering traffic collection and observability, Wireshark packet and display-filter operations, anomaly detection, and network forensics with NetworkMiner, including scan fingerprinting, tunnelling detection, and artefact extraction.
+### 🕸️ Web Security Monitoring
+* [Web Security Monitoring](./Web-Security-Monitoring.md) – A SOC-oriented learning reference covering web fundamentals and common risks, detection of web attacks through log and traffic analysis, web shell identification via file system and network telemetry, and DDoS attack recognition with mitigation strategies.
 
 ---
 
