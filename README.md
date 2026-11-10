@@ -71,6 +71,8 @@ Here is a breakdown of the specific rooms and concepts I have documented so far.
 * [Web Security Monitoring](./Web-Security-Monitoring.md) – A SOC-oriented learning reference covering web fundamentals and common risks, detection of web attacks through log and traffic analysis, web shell identification via file system and network telemetry, and DDoS attack recognition with mitigation strategies.
 ### 🖥️ Windows Security Monitoring
 * [Windows Security Monitoring & Threat Detection](./windows-security-monitoring.md) – Comprehensive reference documenting Windows Event Log architecture, key detection Event IDs (4624, 4688, 4104, 7045), and behavioral analysis for initial access, execution, and persistence mechanisms.
+### 🐧 Linux Security Monitoring
+* [Linux Security Monitoring](./Linux-Security-Monitoring.md) – A SOC-oriented learning reference covering Linux log sources and triage, detection of initial access and exploitation, post-exploitation persistence and privilege escalation, and recognition of lateral movement, exfiltration, and anti-forensics across the Linux attack lifecycle.
 
 ---
 
